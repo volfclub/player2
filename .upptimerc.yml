@@ -1,6 +1,6 @@
 # Change these first
 owner: volfclub # Your GitHub username
-repo: player2 # Your GitHub repository name
+repo: travellings-status # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -370,11 +370,12 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /player2
+  baseUrl: /travellings-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: travellings-status
+  introTitle: "本页面是用于维护 🚀 [Travelling](https://github.com/volfclub/travellings) **开往**友站的。"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: ocean
   navbar:
     - title: Status
       href: /
