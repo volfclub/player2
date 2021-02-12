@@ -6,6 +6,8 @@ repo: player2 # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+  - name: 狼网
+    url: https://www.volf.club
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
