@@ -1,4 +1,6 @@
-# [📈 Live Status](https://volfclub.github.io/player2): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://volfclub.github.io/player2): <!--live status--> **🟧 Partial outage** 
+
+beta
 
 This repository contains the open-source uptime monitor and status page for [逊狼](volf.club), powered by [Upptime](https://github.com/upptime/upptime).
 
