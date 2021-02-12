@@ -5,7 +5,7 @@ repo: player2 # Your GitHub repository name
 # Add your sites here
 sites:
   - name: 开往
-  url: https://github.com/volfclub/travelling
+    url: https://github.com/volfclub/travelling
   - name: 狼牌工作网址导航
     url: https://www.volf.club
   - name: 音速装机
