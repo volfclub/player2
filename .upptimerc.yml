@@ -4,17 +4,368 @@ repo: player2 # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: 狼网
+  - name: 开往
+  url: https://github.com/volfclub/travelling
+  - name: 狼牌工作网址导航
     url: https://www.volf.club
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: 音速装机
+    url: https://sonic.volf.club
+  - name: 原谅糖
+    url: https://yltang.cn
+  - name: Barkure
+    url: https://guguga.cn
+  - name: Yamdr
+    url: https://www.yamdr.cn
+  - name: INSPI和他的
+    url: https://www.kanofans.com
+  - name: Ryan Wang's Blog
+    url: https://ryanc.cc
+  - name: Seija
+    url: https://seija.me
+  - name: 致远博客
+    url: https://blog.uniartisan.com
+  - name: JQM's Site
+    url: https://jinqimu.xyz
+  - name: CrownDaisy
+    url: https://crowndaisy.com
+  - name: 殆己
+    url: https://heycmm.cn
+  - name: Legroft
+    url: https://jinjis.cn
+  - name: FANTASY
+    url: https://blog.tigerxly.com
+  - name: DIego's Blog
+    url: http://blog.diego.plus:5800
+  - name: 果子小酱
+    url: https://sublimerui.top
+  - name: Sakura
+    url: https://cwxyr.me
+  - name: Muyulong's Blog
+    url: https://mmyyll.ml
+  - name: 五叶魔法书
+    url: https://grimoire.cn
+  - name: 风渐远
+    url: https://www.naraku.cn
+  - name: XiYo吧
+    url: https://www.xiyo8.cn
+  - name: 锴
+    url: https://www.wangkai88.com
+  - name: Zeruns's Blog
+    url: https://blog.zeruns.tech
+  - name: Guqing's Blog
+    url: https://guqing.xyz
+  - name: lxxs的小屋
+    url: https://lxxs.xyz
+  - name: 非礼勿言
+    url: https://feiliwuyan.com
+  - name: 星云C馆
+    url: https://www.m78.co
+  - name: 雁陎的自耕地
+    url: https://www.sitstars.com
+  - name: 阿猫阿狗
+    url: https://ionssource.cn
+  - name: 风也温柔
+    url: https://blog.kaygb.com
+  - name: 云游君的小站
+    url: https://www.yunyoujun.cn
+  - name: Mr.Chrosing`s Home
+    url: https://nasity.cn
+  - name: Eltrac's Track
+    url: https://blog.guhub.cn
+  - name: yuaneuro的博客
+    url: https://yuaneuro.cn
+  - name: krau'blog
+    url: https://krau.top
+  - name: 风吟
+    url: https://blog.yilon.top
+  - name: freejishu的美丽世界
+    url: https://www.freejishu.com
+  - name: 小太の游乐园
+    url: https://blog.713.moe
+  - name: Zhou‘s Blog
+    url: https://zhoublog.xyz
+  - name: 地皮-DefiedParty
+    url: https://dpii.club
+  - name: CORE
+    url: https://core.moe
+  - name: solar'blog
+    url: https://www.solarme.vip
+  - name: SpinTouch's Something
+    url: https://spblog.tk
+  - name: Lin. 's Blog
+    url: https://www.lin03.cn
+  - name: TigerRoot
+    url: https://blog.tigerroot.cn
+  - name: 蝶恋花
+    url: https://kylin.dev
+  - name: 摸鱼堂
+    url: blog.moefishtang.xyz
+  - name: Pluveto
+    url: https://www.pluvet.com
+  - name: 艺术长廊
+    url: https://www.6zgm.com
+  - name: LifeAlsoIsGG's blog
+    url: https://blog.lifeisgg.online
+  - name: Ojhdt's Blog
+    url: https://blog.ojhdt.com
+  - name: 萌豚 Moechu
+    url: https://moechu.cn
+  - name: ncc的个人网站
+    url: https://www.zqcnc.cn
+  - name: 刀客
+    url: https://blog.mboker.cn
+  - name: 静静的小窝
+    url: https://wznmickey.com
+  - name: 及时行乐
+    url: https://www.jsxlo.com
+  - name: iSwl's Blog
+    url: https://blog.iswl.vip
+  - name: 魏巍
+    url: https://paperbox.xyz
+  - name: Leo’s Blog
+    url: https://www.isolitude.cn
+  - name: 顾盼の记事本
+    url: https://gupan.site
+  - name: 爆胎的博客
+    url: https://www.itggg.cn
+  - name: 花开陌上
+    url: https://moshanghua.net
+  - name: 炎忍的博客
+    url: https://blog.endureblaze.cn
+  - name: 青行三の个人博客
+    url: https://blog.jiehua1995.xyz
+  - name: 有次博客
+    url: https://you.ci
+  - name: SkyWT
+    url: https://skywt.cn
+  - name: 执手对影成双
+    url: https://www.lipk.org
+  - name: MySpace
+    url: https://www.zkl2333.com
+  - name: 皮毛技术君
+    url: https://www.whoit.top
+  - name: Passer
+    url: https://takuron.top
+  - name: 沐森西の博客
+    url: https://dlizi.com
+  - name: 山葵酱
+    url: https://www.wasabi.fun
+  - name: Ying
+    url: https://yingserver.cn
+  - name: 风之暇想
+    url: https://www.fzxx.xyz
+  - name: 今今今生
+    url: https://noheart.cn
+  - name: ADD-SP‘s Blog
+    url: https://www.addesp.com
+  - name: 游轶的小站
+    url: https://blog.devyi.com
+  - name: MHuiG's Blog
+    url: https://blog.mhuig.top
+  - name: JalenChuh
+    url: https://blog.jalenchuh.cn
+  - name: LiuYun
+    url: https://blog.6yfz.cn
+  - name: Geek Era
+    url: https://www.geekera.cn
+  - name: Oo笑容太甜oO
+    url: https://kissbaofish.cn
+  - name: F君的博客
+    url: https://blog.fkun.tech
+  - name: The Palace
+    url: https://seiryu.cn
+  - name: Chr_小屋
+    url: https://blog.chrxw.com
+  - name: tabris的遥远星系
+    url: https://www.tabirstrees.top
+  - name: 728004090博客
+    url: https://www.googlessr.top
+  - name: 服务猿's 学习笔记
+    url: https://www.ishells.cn
+  - name: 尼采般地抒情
+    url: https://www.wztlink1013.com
+  - name: Zkpeace
+    url: https://zkpeace.com
+  - name: 低调小熊猫
+    url: http://ilovey.live
+  - name: Guang's blog
+    url: https://code016.com
+  - name: 挨拍的儿
+    url: https://jimmyqin.cn
+  - name: 莫逡巡的博客
+    url: https://wangpl.top
+  - name: 三路清风
+    url: https://www.yansanlu.com
+  - name: 房东的猫
+    url: https://www.fddmao.com
+  - name: 七米蓝
+    url: https://www.chirmyram.top
+  - name: 旧叙新陈'Blog
+    url: https://jiuxuxinchen.xyz
+  - name: MZRME‘S
+    url: https://mzrme.com
+  - name: 归舟棹远
+    url: https://www.tanknee.cn
+  - name: 人家故里
+    url: https://fx7.top
+  - name: 丁丁の店
+    url: https://blog.butanediol.me
+  - name: 饿龙不是龙哩
+    url: https://loafing.cn
+  - name: 低调阁
+    url: https://www.ddg.ink
+  - name: SWJ
+    url: https://blog.zggsong.cn
+  - name: Sanarous's Blog
+    url: https://bestzuo.cn
+  - name: HandSonic‘s Blog
+    url: https://handsonic.top
+  - name: 雾漫江南
+    url: https://oxoch.com
+  - name: Sorryfu
+    url: https://fushaolei.github.io
+  - name: 静かな森
+    url: https://innei.ren
+  - name: 杜老师说
+    url: https://dusays.com
+  - name: 独人欣赏
+    url: https://www.wangyusong.cn
+  - name: zcmimi's blog
+    url: https://blog.zcmimi.top
+  - name: TF的博客
+    url: https://blog.tengfei.website
+  - name: 简兮小站
+    url: https://www.zk1220.com
+  - name: Colsrch'Blog
+    url: https://colsrch.cn
+  - name: AzuSemisa's Blog
+    url: https://azusemisa.top
+  - name: 倚栏听风
+    url: https://www.yilantingfeng.site
+  - name: Xu's Blog
+    url: https://hasaik.com
+  - name: 優萌初華
+    url: https://shoka.lostyu.me
+  - name: MES
+    url: https://rain.moimo.me
+  - name: ZigZagK的博客
+    url: https://zigzagk.top
+  - name: SkYe's Blog
+    url: https://www.mrskye.cn
+  - name: JsOnGmAX-博客
+    url: https://jsong.cn
+  - name: Kiritoghy's Blog
+    url: https://www.kiritoghy.cn
+  - name: BORBER
+    url: https://www.cnblogs.com/borber
+  - name: NEROASMAR.TOP
+    url: https://neroasmar.top
+  - name: 若非
+    url: https://loafing.cn
+  - name: 若非
+    url: https://loafing.cn
+  - name: 弥枳
+    url: https://blog.coor.top
+  - name: 不淡定的实验室
+    url: https://xd.sh.cn
+  - name: Micah
+    url: https://realmicah.xyz
+  - name: 提莫酱的博客
+    url: https://zzr3.xyz
+  - name: COOL
+    url: https://www.coolku.cc
+  - name: 夏日鱼塘
+    url: https://www.summerpond.cn
+  - name: 异国迷宫的十字路口
+    url: https://blog.fivezha.cn
+  - name: Flexiston's Blog
+    url: https://blog.flesx.cn
+  - name: 可定博客
+    url: https://wnag.com.cn
+  - name: 新漫猫
+    url: https://www.acg19.top
+  - name: Paddylin的博客
+    url: https://www.paddylin.top
+  - name: 小孔成像
+    url: https://kurumit3.top
+  - name: Lime Network Blog
+    url: https://blog.limecho.net
+  - name: Panedioic's blog
+    url: https://blog.pppane.com
+  - name: 靜海遺跡
+    url: https://voidge.cf
+  - name: 风月平分破
+    url: https://www.1-365.cn
+  - name: 有梦想的咸鱼
+    url: https://xianyum.cn
+  - name: 大海的页面
+    url: https://ccccc.cyou
+  - name: Funix’s blog
+    url: https://www.funix.cn
+  - name: 林克的编程小记
+    url: https://www.codinglink.tech
+  - name: BD的小窝
+    url: https://www.bluesdawn.top
+  - name: LBTSTO自由商店
+    url: https://www.bluesdawn.top
+  - name: ChenYFanの博客
+    url: https://blog.cyfan.top
+  - name: 江风引雨の小站
+    url: https://blog.luzy.top
+  - name: Senorui's BLog
+    url: https://senorui.top
+  - name: 神州部落格
+    url: https://www.szfc13.cn
+  - name: Declan's Blog
+    url: https://blog.lihaojin.cn
+  - name: 鲸一
+    url: https://www.saroin.com
+  - name: JaneWu's Blog
+    url: https://zhenwu99.gitee.io
+  - name: Zoyua's blog
+    url: https://zoyua.cn
+  - name: hermoso
+    url: https://www.webpages.show
+  - name: Johnson的博客
+    url: https://johnsonlee.site
+  - name: LeeBlog
+    url: https://www.leejean.top
+  - name: Memories's home
+    url: https://blog.tedgao.com
+  - name: 忆星辰
+    url: https://www.extingstudio.com
+  - name: YunShu'Blog
+    url: https://www.yunshu.site
+  - name: 菠萝涌浆
+    url: https://www.boolo.top
+  - name: 小康的个人主页
+    url: https://xiaokang.me
+  - name: 威廉伯爵
+    url: https://megatontech.github.io
+  - name: hewith他和她
+    url: https://heshun.run
+  - name: Huiris's Log
+    url: https://huiris.com
+  - name: iVampireSP的物语
+    url: https://ivampiresp.com
+  - name: UTOPIA
+    url: https://ishya.top
+  - name: MBR的博客
+    url: https://blog.mbrjun.cn
+  - name: 阿成儿Online
+    url: https://youdef.com
+  - name: 黑石博客
+    url: https://www.heson10.com
+  - name: 云帆沧海
+    url: https://yunfanch.com
+  - name: wmz's blog
+    url: https://wmzwsa.xyz
+  - name: 飞刀博客
+    url: https://www.feidaoboke.com
+  - name: 优速VPSUR测评
+    url: https://vpsur.com
+  - name: 野肆的生活分享
+    url: https://yexsi.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
