@@ -5,7 +5,7 @@ repo: travellings-status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: 开往
-    url: https://github.com/volfclub/travelling
+    url: https://travellings.now.sh
   - name: 狼牌工作网址导航
     url: https://www.volf.club
   - name: 音速装机
@@ -16,7 +16,7 @@ sites:
     url: https://guguga.cn
   - name: Yamdr
     url: https://www.yamdr.cn
-  - name: INSPI和他的
+  - name: Arect和他的
     url: https://www.kanofans.com
   - name: Ryan Wang's Blog
     url: https://ryanc.cc
@@ -54,8 +54,6 @@ sites:
     url: https://blog.zeruns.tech
   - name: Guqing's Blog
     url: https://guqing.xyz
-  - name: lxxs的小屋
-    url: https://lxxs.xyz
   - name: 非礼勿言
     url: https://feiliwuyan.com
   - name: 星云C馆
@@ -83,7 +81,7 @@ sites:
   - name: 小太の游乐园
     url: https://blog.713.moe
   - name: Zhou‘s Blog
-    url: https://zhoublog.xyz
+    url: https://idream.ink
   - name: 地皮-DefiedParty
     url: https://dpii.club
   - name: CORE
@@ -98,14 +96,10 @@ sites:
     url: https://blog.tigerroot.cn
   - name: 蝶恋花
     url: https://kylin.dev
-  - name: 摸鱼堂
-    url: blog.moefishtang.xyz
   - name: Pluveto
     url: https://www.pluvet.com
   - name: 艺术长廊
     url: https://www.6zgm.com
-  - name: LifeAlsoIsGG's blog
-    url: https://blog.lifeisgg.online
   - name: Ojhdt's Blog
     url: https://blog.ojhdt.com
   - name: 萌豚 Moechu
@@ -120,8 +114,6 @@ sites:
     url: https://www.jsxlo.com
   - name: iSwl's Blog
     url: https://blog.iswl.vip
-  - name: 魏巍
-    url: https://paperbox.xyz
   - name: Leo’s Blog
     url: https://www.isolitude.cn
   - name: 顾盼の记事本
@@ -131,7 +123,7 @@ sites:
   - name: 花开陌上
     url: https://moshanghua.net
   - name: 炎忍的博客
-    url: https://blog.endureblaze.cn
+    url: https://blog.imyan.ren
   - name: 青行三の个人博客
     url: https://blog.jiehua1995.xyz
   - name: 有次博客
@@ -168,6 +160,8 @@ sites:
     url: https://blog.6yfz.cn
   - name: Geek Era
     url: https://www.geekera.cn
+  - name: 南瓜奶酪
+    url: https://blog.china97.cn
   - name: Oo笑容太甜oO
     url: https://kissbaofish.cn
   - name: F君的博客
@@ -180,12 +174,16 @@ sites:
     url: https://www.tabirstrees.top
   - name: 728004090博客
     url: https://www.googlessr.top
+  - name: 螓首蛾眉
+    url: https://jsun969.cn
   - name: 服务猿's 学习笔记
     url: https://www.ishells.cn
   - name: 尼采般地抒情
     url: https://www.wztlink1013.com
   - name: Zkpeace
     url: https://zkpeace.com
+  - name: NekoX
+    url: https://nekox.cn
   - name: 低调小熊猫
     url: http://ilovey.live
   - name: Guang's blog
@@ -224,6 +222,8 @@ sites:
     url: https://oxoch.com
   - name: Sorryfu
     url: https://fushaolei.github.io
+  - name: TAOG's Blog
+    url: https://iktao.cn
   - name: 静かな森
     url: https://innei.ren
   - name: 杜老师说
@@ -271,7 +271,7 @@ sites:
   - name: Micah
     url: https://realmicah.xyz
   - name: 提莫酱的博客
-    url: https://zzr3.xyz
+    url: https://www.timochan.cn
   - name: COOL
     url: https://www.coolku.cc
   - name: 夏日鱼塘
@@ -307,7 +307,7 @@ sites:
   - name: BD的小窝
     url: https://www.bluesdawn.top
   - name: LBTSTO自由商店
-    url: https://www.bluesdawn.top
+    url: https://www.libertystore.one
   - name: ChenYFanの博客
     url: https://blog.cyfan.top
   - name: 江风引雨の小站
@@ -352,6 +352,8 @@ sites:
     url: https://ishya.top
   - name: MBR的博客
     url: https://blog.mbrjun.cn
+  - name: 小陈网管的小窝
+    url: https://blog.xcbili.cn
   - name: 阿成儿Online
     url: https://youdef.com
   - name: 黑石博客
@@ -362,10 +364,111 @@ sites:
     url: https://wmzwsa.xyz
   - name: 飞刀博客
     url: https://www.feidaoboke.com
-  - name: 优速VPSUR测评
-    url: https://vpsur.com
   - name: 野肆的生活分享
     url: https://yexsi.com
+  - name: Juch 的导航
+    url: https://vmert.com
+  - name: Openwit启智
+    url: https://openwit.net
+  - name: The F Word
+    url: https://fiammanda.github.io
+  - name: Re Life
+    url: https://www.xiangshu233.cn
+  - name: qinxs小站
+    url: https://7bxing.com
+  - name: 鱼跃此时海
+    url: https://www.overme.cn
+  - name: Vinking的小站
+    url: https://vinking.top
+  - name: MineCraft爱好者
+    url: https://www.mmcee.cn
+  - name: anonymous's blog
+    url: https://www.wenbin.org.cn
+  - name: 阿方的博客
+    url: https://fang.blog.miri.site
+  - name: 见字如面
+    url: https://hiwannz.com
+  - name: 徐泽林的博客
+    url: https://www.zlinblog.cn
+  - name: RhythmLian's Blog
+    url: https://rhythmlian.cn
+  - name: alpaca++
+    url: https://alpaca.plus
+  - name: 越行勤‘s Blog
+    url: https://yingwiki.top
+  - name: 云生博客
+    url: https://qikaile.tk
+  - name: Funs Life
+    url: https://funs.life
+  - name: 听得入迷空间
+    url: https://www.tdrme.cn
+  - name: hongCYu's Blog
+    url: https://hongcyu.cn
+  - name: nEo
+    url: https://neo00.top
+  - name: Ty Blog
+    url: https://tyblog.com.cn
+  - name: TomyJan的博客
+    url: https://blog.tomys.top
+  - name: 一点快乐
+    url: https://www.yidiankuaile.com
+  - name: 白日梦研究所
+    url: https://blog.angustar.com
+  - name: 十二博客
+    url: https://blog.shiertx.com
+  - name: MoYi's Blog
+    url: https://blog.moyi.ml
+  - name: Troy & Chloe
+    url: https://www.yotroy.cool
+  - name: luosw 的小窝
+    url: https://luosw.fun
+  - name: 林中小屋
+    url: https://imszz.com
+  - name: Sianx's Blog
+    url: https://blog.sianx.com
+  - name: Ender's Blog
+    url: https://ender.fun
+  - name: 拾忆小站
+    url: https://www.syzhan.cn
+  - name: 嚣张的灯塔
+    url: https://www.liuzhimin.vip
+  - name: W4J1e's blog
+    url: https://www.hin.cool
+  - name: 轻风记
+    url: https://www.3328bk.cn
+  - name: Ganto的个人主页
+    url: https://www.ganto.cn
+  - name: Weidows の Nest
+    url: https://weidows.github.io
+  - name: Magma Ink
+    url: https://magma.ink
+  - name: 幼稚园园长
+    url: https://yzyyz.top
+  - name: 飞云师兄的主页
+    url: www.idasx.com
+  - name: Xecades's Blog
+    url: https://blog.xecades.xyz
+  - name: Amos‘blog
+    url: https://blog.amoswu.cn
+  - name: Mr_God's Note
+    url: https://www.mrgod.cn
+  - name: 月光中的污点
+    url: https://www.extlight.com
+  - name: Sekiro's Blog
+    url: https://666wxy666.github.io
+  - name: Err0r
+    url: https://err0r.top
+  - name: 余生 ' Blog
+    url: https://www.ysazw.cn
+  - name: 墨染 の 博客
+    url: https://www.roaing.com
+  - name: 萌！萝莉
+    url: https://loliloli.moe
+  - name: 秉性之松
+    url: https://blog.iucky.cn
+  - name: 7WATE`S Blog
+    url: https://blog.7wate.com
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -374,7 +477,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   cname: travellings-status.now.sh # Custom domain CNAME
   name: travellings-status
-  introTitle: "本页面是用于维护 🚀 [Travelling](https://github.com/volfclub/travellings) **开往**友站的。"
+  introTitle: "本页面是用于维护 🚇 [Travelling](https://github.com/volfclub/travellings) **开往**友站的。"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: ocean
   navbar:
